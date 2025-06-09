@@ -24,3 +24,37 @@ This is my personal portfolio showcase
   - 🤖 [Google Play (Android)](Coming Soon)  
 
 ---
+
+## 🎮 Personal Project Demo
+  ### 🤖 Window Pet ⚔️
+- https://jiahao97.itch.io/window-pet-demo
+
+  **Status:** 
+  In Development🟢
+  
+  **Role:** 
+  Solo Developer
+
+  **Description:**  
+  A Cute pet wandering on your screen!
+  
+**Links:** 
+  - 🤖 [itch.io](https://jiahao97.itch.io/window-pet-demo)
+  ---
+
+
+### 🤖 2D Action Control ⚔️
+
+  **Status:** 
+  In Development🟢
+  
+  **Role:** 
+  Solo Developer
+  
+  **Description:**  
+  A Demo to showcase 2D action platformer games inspired by Skul:The Hero Slayer
+  
+**Links:**  
+  - 🤖 [itch.io](Coming Soon)  
+  ---
+---
