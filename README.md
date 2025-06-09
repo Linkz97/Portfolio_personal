@@ -27,7 +27,6 @@ This is my personal portfolio showcase
 
 ## 🎮 Personal Project Demo
   ### 🤖 Window Pet ⚔️
-- https://jiahao97.itch.io/window-pet-demo
 
   **Status:** 
   In Development🟢
